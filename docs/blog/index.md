@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "vite.yic3.com"
-  text: "刺猬出海工具推荐"
-  tagline: 出海第一站，从这里开始
+  name: "vite.yic3.com/blog"
+  text: "博客"
+  tagline: 记录一些技巧和教程
   actions:
     - theme: brand
       text: 开始阅读
@@ -22,6 +22,8 @@ features:
     details: 推荐上网机场，解决上网难题。
     link: /paid-airport/paid.html
   - title: Feature B
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit

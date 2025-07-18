@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "vite.yic3.com"
-  text: "刺猬出海工具推荐"
+  name: "vite.yic3.com/nav"
+  text: "网址导航"
   tagline: 出海第一站，从这里开始
   actions:
     - theme: brand
